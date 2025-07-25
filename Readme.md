@@ -55,7 +55,7 @@ Start the development server:
 npm start
 ```
 
-The admin panel will be available at [http://localhost:3000](http://localhost:3000) (or the port specified in your environment).
+The admin panel will be available at https://node-js-admin-panel-pr.onrender.com/.
 
 ## Usage
 
